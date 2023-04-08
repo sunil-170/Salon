@@ -171,6 +171,10 @@
     padding: 18px 53px;
 }
 
+.nav_hvr {
+    transition: all 0.5s linear;
+}
+
 .nav_hvr:hover {
     color: var(--color-yellow) !important;
 }
